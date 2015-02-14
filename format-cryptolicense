@@ -1,0 +1,31 @@
+Format of the .cryptolicense file, 14 Feb 2015
+
+
+The ordering of information is as follows
+
+amount: 	0.01
+currency: 	BTC
+destination: 	01234
+Free text: Here I agree to write some stuff for the amount.
+
+
+amount
+
+The quantity of funds to transfer
+
+
+currency
+
+The currency in which funds should be paid
+
+
+destination
+
+The party to whom the funds should be paid
+
+
+free text
+
+Either the text of the license agreement or the url to such text
+
+
