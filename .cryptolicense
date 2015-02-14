@@ -74,4 +74,7 @@ currency 	BTC
 destination 	0xx01234
 Free text: Here I agree to write some stuff for the amount.
 
+the rain is spain stays mainly on the plane
+
+amount 	0.01 currency 	BTC destination 	0x01234 Free text: Here I agree to write some stuff for the amount.
 
