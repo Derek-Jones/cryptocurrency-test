@@ -5,7 +5,7 @@ The ordering of information is as follows
 
 amount: 	0.01
 currency: 	BTC
-destination: 	01234
+payee: 	01234
 Free text: I hereby agree you can use my software for any purpose until our Sun supernovas.
 
 
@@ -19,7 +19,7 @@ currency
 The currency in which funds should be paid
 
 
-destination
+payee
 
 The party to whom the funds should be paid
 
