@@ -1,80 +1,80 @@
-anount 	0.01
-currency 	BTC
-destination 	01234
+anount: 	0.01
+currency: 	BTC
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-amount 	0.02
-currency 	BTC
-destination 	01234
+amount: 	0.01
+amount: 	0.02
+currency: 	BTC
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.O1
-currency 	BTC
-destination 	01234
+amount: 	0.O1
+currency: 	BTC
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.00
-currency 	BTC
-destination 	01234
+amount: 	0.00
+currency: 	BTC
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	-0.01
-currency 	BTC
-destination 	01234
+amount: 	-0.01
+currency: 	BTC
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	+0.01
-currency 	BTC
-destination 	01234
+amount: 	+0.01
+currency: 	BTC
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.0 1
-currency 	BTC
-destination 	01234
+amount: 	0.0 1
+currency: 	BTC
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-currency 	BCT
-destination 	01234
+amount: 	0.01
+currency: 	BCT
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-currency 	bItCoin
-destination 	01234
+amount: 	0.01
+currency: 	bItCoin
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-currency 	bItCion
-destination 	01234
+amount: 	0.01
+currency: 	bItCion
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-currency 	
-destination 	01234
+amount: 	0.01
+currency: 	
+destination: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-curency 	BTC
-destinasion 	01234
+amount: 	0.01
+curency: 	BTC
+destinasion: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-currency 	BTC
-target 	01234
+amount: 	0.01
+currency: 	BTC
+target: 	01234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-currency 	BTC
-destination 	01_234
+amount: 	0.01
+currency: 	BTC
+destination: 	01_234
 Free text: Here I agree to write some stuff for the amount.
 
-amount 	0.01
-currency 	BTC
-destination 	0xx01234
+amount: 	0.01
+currency: 	BTC
+destination: 	0xx01234
 Free text: Here I agree to write some stuff for the amount.
 
-the rain is spain stays mainly on the plane
+the: rain is spain stays mainly on the plane
 
-amount 	0.01 currency 	BTC destination 	0x01234 Free text: Here I agree to write some stuff for the amount.
+amount: 	0.01 currency: 	BTC destination: 	0x01234 Free text: Here I agree to write some stuff for the amount.
 
