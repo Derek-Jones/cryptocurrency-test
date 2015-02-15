@@ -1,6 +1,6 @@
 Test cases for crypto licensing hackathon software
 
-[Long Tail Licensing](http://fintech02.openfun.org/validate.php?url=https%3A%2F%2Fgithub.com%2FDerek-Jones%2Fcryptocurrency-test)
+Long Tail Licensing [Buy license](http://fintech02.openfun.org/validate.php?url=https%3A%2F%2Fgithub.com%2FDerek-Jones%2Fcryptocurrency-test)
 
 Usual README information...
 
