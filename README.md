@@ -9,21 +9,20 @@ A developer places a file, named .cryptolicense,
 in the top level directory of any project they
 want a licensing revenuw stream.
 
-Potential licensees enter a Github project's url
-into the webpage ???.
+Potential licensee clicks on link in README.md or
+enters the Github project's url into out website.
 
-Information in the project's .cryptolicense file
-is read to obtain amount of Bitcoin to be paid and the
-license terms.
+Information in the repo's .cryptolicense file is read to
+obtain amount of Bitcoin to be paid and the license terms.
 
-A payment is arranged via the licensee's Bitcoin wallet.
+Confirm payment set up via the licensee's Bitcoin wallet.
 
 Information identifying the licensing terms and the two
 parties involved are saved in the transaction block that
 is written to the blockchain.
 
 All licensing transactions are public and can be displayed
-by entering licensor Bitcoin id and ???
+by entering licensee details...
 
 
 Next stage
